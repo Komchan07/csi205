@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage":"https://Komchan07.gethub.io/csi205/",
+  "homepage":"https://Komchan07.github.io/csi205/",
   "scripts": {
     "perdeploy": "npm run build",
     "deploy":"gh-pages -d ./dist",
